@@ -1,3 +1,5 @@
+![DSC_4882.JPG](https://github.com/user-attachments/assets/3ce2dfb9-f2b6-4d45-91a4-e25ec8c89e75)
+
 # molatoms — GAMESS 出力から 3D プリント用の分割ファンデルワールスモデルを作る
 
 GAMESS の計算結果（最適化構造）から分子のファンデルワールス（vdW）空間充填モデルを作り、
