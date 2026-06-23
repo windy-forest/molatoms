@@ -1,0 +1,8 @@
+# gamess_to_json.py は標準ライブラリのみで動作します。
+# vdw_to_stl.py は以下が必要です。
+numpy>=1.20
+trimesh>=4.0
+manifold3d>=2.0      # ロバストなブール演算 (球の切断・刻印) に使用
+shapely>=2.0         # trimesh が一部処理で利用
+mapbox_earcut>=1.0   # 切断面の三角形分割
+networkx>=3.0        # trimesh が一部処理で利用
